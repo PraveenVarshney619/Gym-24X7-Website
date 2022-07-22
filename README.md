@@ -1,1 +1,1 @@
-# Gym 24X7 Website using HTML, CSS & JS
+# Gym Website using HTML, CSS and JS.
